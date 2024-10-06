@@ -23,10 +23,19 @@ Utilizando o simulador online Wokwi e configurando o código corretamente para a
 
 ## Postman
 Utilizando o Postman para ler a coleção do API do Fiware Descomplicado (adaptado para este Checkpoint) e configurando o IP público da VM, fazemos os health checks e confirmamos que está tudo comunicando corretamente.
-![image](https://github.com/user-attachments/assets/ad7cfabe-54e6-4e79-991b-507691bbe501)
-![image](https://github.com/user-attachments/assets/9dadf132-e51e-4b70-b94e-200baa7d275d)
-![image](https://github.com/user-attachments/assets/dbb7e187-33c6-4782-98c0-e433c94b7577)
-![image](https://github.com/user-attachments/assets/ee958b0e-2e61-4d4d-bdc7-c2de6d6bf75f)
+![image](https://github.com/user-attachments/assets/7b1031b4-1573-4ad7-8c35-3b113f16056a)
+Através do Postman, podemos verificar os valores de luminosidade, umidade e temperatura que estão sendo enviados pelo Wokwi:
+![image](https://github.com/user-attachments/assets/86e87e41-a210-4941-809e-d76d8e84cb9b)
+![image](https://github.com/user-attachments/assets/f44b98dd-b6a7-4964-9c7f-73a24f7e3d8b)
+![image](https://github.com/user-attachments/assets/56b9e19f-4f39-42fa-a841-9368b22966d7)
+
+Podemos também pedir um número específico de valores salvos pelo STH-Comet (neste caso, 30):
+![image](https://github.com/user-attachments/assets/85022632-e4ed-4757-ab99-19e9d777d4f8)
+![image](https://github.com/user-attachments/assets/5cf80513-415f-4bbc-94d9-60364efad37d)
+![image](https://github.com/user-attachments/assets/6d64c188-ae32-4d70-b7ad-1f6a4d199741)
+
+
+
 
 
 
