@@ -29,10 +29,15 @@ Através do Postman, podemos verificar os valores de luminosidade, umidade e tem
 ![image](https://github.com/user-attachments/assets/f44b98dd-b6a7-4964-9c7f-73a24f7e3d8b)
 ![image](https://github.com/user-attachments/assets/56b9e19f-4f39-42fa-a841-9368b22966d7)
 
-Podemos também pedir um número específico de valores salvos pelo STH-Comet (neste caso, 30):
+Podemos também pedir um número específico de valores históricos salvos pelo STH-Comet (neste caso, 30):
 ![image](https://github.com/user-attachments/assets/85022632-e4ed-4757-ab99-19e9d777d4f8)
 ![image](https://github.com/user-attachments/assets/5cf80513-415f-4bbc-94d9-60364efad37d)
 ![image](https://github.com/user-attachments/assets/6d64c188-ae32-4d70-b7ad-1f6a4d199741)
+
+## Dashboard
+Também desenvolvemos um Dashboard que recebe o JSON dos dados salvos e os plota em um gráfico, um para cada valor (luminosidade, umidade e temperatura), além de também plotar uma linha com o valor médio de cada um:
+![image](https://github.com/user-attachments/assets/f76ef677-82e6-4090-aee8-48a0296e7496)
+![image](https://github.com/user-attachments/assets/ac07984e-47bc-4899-9abc-c3a3a42446ed)
 
 
 
