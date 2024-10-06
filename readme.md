@@ -16,8 +16,8 @@ Utilizando a Microsoft Azure, hospedamos e configuramos uma máquina virtual (VM
 ![image](https://github.com/user-attachments/assets/40755ca2-5925-4e9e-a063-1c94e3953cbb)
 
 ## Simulação no Wokwi
-Utilizando um simulador online como o Wokwi, e configurando o código corretamente para enviar e receber dados, podemos enviar os valores de luminosidade, umidade e temperatura para o Postman:
-![image](https://github.com/user-attachments/assets/0e43da8c-d9df-4f63-9696-31928bd08757)
+Utilizando o simulador online Wokwi e configurando o código corretamente para a comunicação dos dados, podemos enviar os valores de luminosidade, umidade e temperatura para o Postman:
+![image](https://github.com/user-attachments/assets/6e7e57d1-fd03-48a4-8a38-1bcc5d2b7088)
 
 - Link do Projeto: https://wokwi.com/projects/410952264842122241
 
