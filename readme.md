@@ -40,7 +40,8 @@ Também desenvolvemos um Dashboard que recebe o JSON dos dados salvos e os plota
 ![image](https://github.com/user-attachments/assets/ac07984e-47bc-4899-9abc-c3a3a42446ed)
 
 
-
+## Vídeo Explicativo no Youtube
+- [Link do Vídeo](https://youtu.be/lVYydVUc0Go)
 
 
 
