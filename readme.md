@@ -16,13 +16,10 @@ Utilizando a Microsoft Azure, hospedamos e configuramos uma máquina virtual (VM
 ![image](https://github.com/user-attachments/assets/40755ca2-5925-4e9e-a063-1c94e3953cbb)
 
 ## Simulação no Wokwi
-Utilizando um simulador online como o Wokwi, e configurando o código corretamente para enviar e receber dados, podemos enviar os valores de luminosidade para o Postman e receber valores de led on/off do Postman.
-![image](https://github.com/user-attachments/assets/50db4c79-00ae-4629-a3f4-2e7a5fbe2efb)
-![image](https://github.com/user-attachments/assets/9d89a804-7c32-4255-a1b5-2c81d970f0e3)
-![image](https://github.com/user-attachments/assets/d9f18839-851f-4620-9694-5b057c980aa2)
-![image](https://github.com/user-attachments/assets/9665e8db-6429-4a78-b2bc-f804ba86bc24)
-![image](https://github.com/user-attachments/assets/bd14148c-ca8b-417d-b9c1-8221d18e0651)
-- Link do Projeto: https://wokwi.com/projects/406657416142643201
+Utilizando um simulador online como o Wokwi, e configurando o código corretamente para enviar e receber dados, podemos enviar os valores de luminosidade, umidade e temperatura para o Postman:
+![image](https://github.com/user-attachments/assets/0e43da8c-d9df-4f63-9696-31928bd08757)
+
+- Link do Projeto: https://wokwi.com/projects/410952264842122241
 
 ## Postman
 Utilizando o Postman para ler a coleção do API do Fiware Descomplicado (adaptado para este Checkpoint) e configurando o IP público da VM, fazemos os health checks e confirmamos que está tudo comunicando corretamente.
